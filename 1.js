@@ -10,6 +10,6 @@
   });
 
   if (isFromSearchEngine) {
-    window.location.href = 'https://seo006.asha779.com';
+    window.location.href = 'https://www.asha779.com';
   }
 })();
